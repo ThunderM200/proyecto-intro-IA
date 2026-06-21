@@ -9,3 +9,5 @@ El problema planteado para el dataset es la predición de la satisfacción de cl
 > [!NOTE]
 > El dataset utilizado viene previamente preparado desde el origen, por lo que ya están predefinidos los conjuntos de entrenamiento y de prueba. (Y sí, tuve que buscar como se hacen las anotaciones)
 
+> [!NOTE]
+> Buscando más información y viendo como los modelos clasifican datos, en realidad voy a usar Regresión logística, decision trees y random forest porque son los que mejor se ajustan a este dataset.
