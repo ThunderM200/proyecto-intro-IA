@@ -102,8 +102,6 @@ Tenemos que el que mejor rendimiento se obtuvo al trabajar con regresión logís
 
 ## Conclusiones
 
-## Conclusiones
-
 Aunque Random Forest obtuvo el mayor accuracy, la regresión logística presentó un mejor equilibrio entre sensibilidad y capacidad de discriminación, reflejado en sus valores de F1-Score y ROC-AUC.
 
 La aplicación de PCA no produjo mejoras significativas y, en algunos casos, redujo el rendimiento de los modelos.
